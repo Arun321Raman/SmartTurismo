@@ -1,4 +1,6 @@
-# The Pred.js code will go into the <head> tag
+# Instructions
+
+The Pred.js code will go into the <head> tag
 
 Create a blank website where predictions will be displayed
 

@@ -47,5 +47,5 @@ window.onload = function () {
         var d = (new Date().valueOf() - e) / 1000;
         var h = count;
         var currenturl = window.location.href;
- navigator.sendBeacon('http://216.137.179.27:3000/', JSON.stringify({a:c, b:d, url:currenturl, g:f, i:h}));
+ navigator.sendBeacon('INSERT_URL_HERE', JSON.stringify({a:c, b:d, url:currenturl, g:f, i:h}));
 })

@@ -5,6 +5,7 @@ This program uses a linear regression model to determine if a website visitor wi
 It measures: 
  - Time spent on the website
  - Right clicks on the website
+ 
 and turns it into a yes or no prediction.
 
 index.js gives a socket.io server that receives and parses data sent by the pred.js code

@@ -4,7 +4,6 @@ SmartTurismo is a project intended to help DMO's to attract more visitors. Using
 
 - Innovate WithIN district finalists
 - Purdue Firestarter Graduate Project
-- 1 paying client so far
 
 We have decided to make this service free and public so that it can be of use to more communities everywhere.
 

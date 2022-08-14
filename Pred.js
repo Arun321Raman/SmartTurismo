@@ -1,4 +1,4 @@
-if (window.location.href.includes("/department/") || window.location.href.includes("/listing/") || window.location.href.includes("/things-to-do/") || window.location.href.includes("events/") || window.location.href.includes("restaurants/") || window.location.href.includes("hotels/") || window.location.href.includes("meetings-groups") || window.location.href.includes("sports/") || window.location.href.includes("wedding”)){
+if ((window.location.href.includes("/department/")) || (window.location.href.includes("/listing/")) || (window.location.href.includes("/things-to-do/")) || (window.location.href.includes("events/")) || (window.location.href.includes("restaurants/")) || (window.location.href.includes("hotels/")) || (window.location.href.includes("meetings-groups")) || (window.location.href.includes("sports/")) || (window.location.href.includes("wedding"))){
     var c = 0;
     var e = new Date().valueOf();
     var finalPred;

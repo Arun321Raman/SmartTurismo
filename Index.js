@@ -64,6 +64,5 @@ var finalPred = "YES"}
         });
 
         app.listen(port, () => {
-                // this is a lie
             console.log(`Example app listening at http://localhost:${port}`)
 })

@@ -19,8 +19,9 @@ index.js gives a socket.io server that receives and parses data sent by the pred
 
 pred.js should be inserted in the head of all of the websites that the prediction should be ran on---it will send necessary data points to the index.js server.
 
+Note - when inserting url in pred.js code, make sure to follow format    http://number/    , for example.    http://216.137.179.27:3000/  ,   within the quote marks
+
 # socket.io Requirements
 
 express
 
-Note - when inserting url in pred.js code, make sure to follow format    http://number/    , for example.    http://216.137.179.27:3000/  ,   within the quote marks

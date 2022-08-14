@@ -23,3 +23,4 @@ pred.js should be inserted in the head of all of the websites that the predictio
 
 express
 
+Note - when inserting url in pred.js code, make sure to follow format    http://number/    , for example.    http://216.137.179.27:3000/  ,   within the quote marks

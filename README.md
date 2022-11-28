@@ -7,7 +7,7 @@ SmartTurismo is a project intended to help DMO's to attract more visitors. Using
 
 We have decided to make this service free and public so that it can be of use to more communities everywhere.
 
-This program uses a linear regression model to determine if a website visitor will actually visit a location on an individual listing page.
+This particular program uses a simple linear regression model to determine if a website visitor will actually visit a location on an individual listing page.
 
 It measures: 
  - Time spent on the website

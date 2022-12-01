@@ -29,3 +29,5 @@ To test SmartTurismo, feel free to use the sample website and data page that I h
 
 express
 
+Questions or Comments: Email - aruniaraman@gmail.com
+

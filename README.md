@@ -7,7 +7,7 @@ SmartTurismo is a project intended to help DMO's to attract more visitors. Using
 
 We have decided to make this service free and public so that it can be of use to more communities everywhere.
 
-This particular program uses a simple linear regression model to determine if a website visitor will actually visit a location on an individual listing page.
+This particular program uses a simple logistic regression model to determine if a website visitor will actually visit a location on an individual listing page. 
 
 It measures: 
  - Time spent on the website
@@ -20,6 +20,10 @@ index.js gives a socket.io server that receives and parses data sent by the pred
 pred.js should be inserted in the head of all of the websites that the prediction should be ran on---it will send necessary data points to the index.js server.
 
 Note - when inserting url of the website you want to collect data on in pred.js code, make sure to follow format    http://number/    , for example.    http://216.137.179.27:3000/  ,   within the quote marks
+
+Note: depending on setup, SmartTurismo may not collect data for all phone visitors, but will collect data on any computer user.
+
+To test SmartTurismo, feel free to use the sample website and data page that I have set up - these are the sites shown in the video. The sample visitor's bureau website can be found at http://216.137.179.27:3000/, while the data page that displays predictions is at http://216.137.179.27:3000/data
 
 # socket.io Requirements
 

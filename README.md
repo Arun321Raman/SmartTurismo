@@ -1,6 +1,6 @@
 # SmartTurismo Prediction Code
 
-SmartTurismo is a project intended to help DMO's to attract more visitors. Using a proprietary algorithm created using crowdsourced data, it predicts with good accuracy an individual's decision to visit using only a few simple data points, listed below. The word count and other attribute measurements serve to paint a picture of the attributes of each venue page - by seeing which venue pages are successful at attracting visitors and what attributes they contain, a new, more effective venue page can be designed for any venue.
+SmartTurismo is a project intended to help visitors bureaus (or any other venue/location promoters) to attract more visitors. Using a proprietary algorithm created using crowdsourced data, it predicts with good accuracy an individual's decision to visit using only a few simple data points, listed below. The word count and other attribute measurements serve to paint a picture of the attributes of each venue page - by seeing which venue pages are successful at attracting visitors and what attributes they contain, a new, more effective venue page can be designed for any venue.
 
 - Innovate WithIN district finalists
 - Purdue Firestarter Graduate Project

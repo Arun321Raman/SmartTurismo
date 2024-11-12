@@ -15,7 +15,7 @@ It measures:
 
 Index.js gives a socket.io server that receives and parses data sent by the pred.js code.
 
-Pred.js should be inserted in the head of all of the websites that the prediction should be ran on---it will send necessary data points to the index.js server.
+Pred.js should be inserted in the head of all of the websites that the prediction runs on - it will send necessary data points to the index.js server.
 
 Note: depending on setup, SmartTurismo may not collect data for all phone visitors, but will collect data on any computer user.
 
